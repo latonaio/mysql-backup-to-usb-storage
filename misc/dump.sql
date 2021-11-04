@@ -1,7 +1,7 @@
 CREATE
-    DATABASE IF NOT EXISTS omotebako DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+    DATABASE IF NOT EXISTS xxxxxxxx DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-USE omotebako;
+USE xxxxxxxx;
 
 CREATE TABLE `back_transaction`
 (
